@@ -1,7 +1,7 @@
 {
   "name": "@hyperspaceinc/style-guide",
   "description": "ESLint and Prettier style guide for various Hyperspace projects 🤙",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "Griko Nibras <griko@hyperspace.us>",
   "repository": "https://github.com/hyperspaceinc/style-guide",
   "homepage": "https://github.com/hyperspaceinc/style-guide",
