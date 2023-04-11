@@ -30,7 +30,7 @@ pnpm install --save-dev @hyperspaceinc/style-guide
 Some of our ESLint configs require peer dependencies. We'll note those
 alongside the available configs in the [ESLint](#eslint) section.
 
-If you're not working with frontend related projects (React, Next.js, TailwindCSS), you can install [`@hyperspaceinc/style-guide-core`](https://github.com/hyperspaceinc/style-guide/pkgs/npm/style-guide-core) which [does not include packages listed here](./scripts/trim-core.js).
+If you're not working with frontend related projects (React, Next.js, TailwindCSS), you can install [`@hyperspaceinc/style-guide-core`](https://npm.im/@hyperspaceinc/style-guide-core) which [does not include packages listed here](./scripts/trim-core.js).
 
 ## Prettier
 
